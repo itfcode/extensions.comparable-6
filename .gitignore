@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/projects/ItfCode.Extensions.ComparableExtendors/obj
+/projects/ItfCode.Extensions.ComparableExtendors/bin/Debug/net6.0
+/tests/ItfCode.Extensions.ComparableExtendors.Tests/bin/Debug/net6.0
+/tests/ItfCode.Extensions.ComparableExtendors.Tests/obj/Debug/net6.0
+/tests/ItfCode.Extensions.ComparableExtendors.Tests/obj
+/.vs/ProjectEvaluation
+/.vs/itfcode.extensions
